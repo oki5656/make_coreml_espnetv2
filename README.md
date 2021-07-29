@@ -14,7 +14,7 @@ numpy==1.19.5
 coremltools==4.1  
     
 ## Features
-I used below network and repo.
-ESPNetv2 paper link:https://arxiv.org/abs/1811.11431
+I used below network and repo.  
+ESPNetv2 paper link:https://arxiv.org/abs/1811.11431  
 Repositry of ESPNetv2 is here:https://github.com/sacmehta/EdgeNets
   
