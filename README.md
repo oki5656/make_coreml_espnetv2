@@ -13,6 +13,10 @@ torchvision==0.9.0
 numpy==1.19.5  
 coremltools==4.1  
     
+(maybe you need)
+opencv-python==4.5.2.52  
+pillow==8.2.0  
+    
 ## Features
 I used below network and repo.  
 ESPNetv2 paper link:https://arxiv.org/abs/1811.11431  
