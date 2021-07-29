@@ -13,7 +13,7 @@ torchvision==0.9.0
 numpy==1.19.5  
 coremltools==4.1  
     
-(maybe you need)
+(maybe you need)  
 opencv-python==4.5.2.52  
 pillow==8.2.0  
     
